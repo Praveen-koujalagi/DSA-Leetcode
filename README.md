@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0392-is-subsequence) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0326-power-of-three) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
