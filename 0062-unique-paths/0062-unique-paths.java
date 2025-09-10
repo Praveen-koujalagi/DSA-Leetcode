@@ -1,14 +1,13 @@
 class Solution {
     public int uniquePaths(int m, int n) {
-       int nm1fact = public static int factorial(int n) { // (n-1)!
-           if (n == 0 || n == 1) return 1;
-           else return n * factorial(n - 1);
-        }    
+        return (int) nCr(m + n - 2, m - 1);
+    }
 
-        int mm1fact = public static int factorial(int n) { // (m-1)!
-            if (n == 0 || n == 1) return 1;
-            else return n * factorial(n - 1);
-        }   
-        return ((n-1)+(m-1)) / (nm1fact *)
+    private long nCr(int n, int r) {
+        long res = 1;
+        for (int i = 1; i <= r; i++) {
+            res = res * (n - r + i) / i;
+        }
+        return res;
     }
 }
