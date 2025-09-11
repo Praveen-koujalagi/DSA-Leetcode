@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0334-increasing-triplet-subsequence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Hash Table
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0900-reordered-power-of-2) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -342,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0062-unique-paths) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
