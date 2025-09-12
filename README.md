@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0392-is-subsequence) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0316-remove-duplicate-letters) |
 | [1048-clumsy-factorial](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1048-clumsy-factorial) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -357,4 +360,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
