@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0162-find-peak-element) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0316-remove-duplicate-letters) |
 | [1048-clumsy-factorial](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1048-clumsy-factorial) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0316-remove-duplicate-letters) |
 ## Interactive
 |  |
