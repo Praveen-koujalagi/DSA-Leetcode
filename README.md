@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0900-reordered-power-of-2) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2689-rearranging-fruits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2689-rearranging-fruits) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0900-reordered-power-of-2) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1983-maximum-population-year](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1983-maximum-population-year) |
 ## Prefix Sum
 |  |
