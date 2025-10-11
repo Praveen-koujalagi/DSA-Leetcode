@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0620-not-boring-movies) |
 | [2087-confirmation-rate](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2087-confirmation-rate) |
 ## Simulation
 |  |
