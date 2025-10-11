@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0595-big-countries) |
 ## Simulation
 |  |
